@@ -14,7 +14,7 @@
 package conductor
 
 import (
-	"conductor/task"
+	"github.com/anuccio1/conductor/client/go/task"
 	"log"
 	"os"
 	"time"
